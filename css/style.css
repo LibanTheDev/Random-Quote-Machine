@@ -1,0 +1,18 @@
+body,
+.bg-primary {
+  background: url('http://i.imgur.com/BtV19gC.jpg')
+}
+
+.section-heading {
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+#quote {
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.jumbotron {
+  background: transparent;
+}
