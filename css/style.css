@@ -16,3 +16,6 @@ body,
 .jumbotron {
   background: transparent;
 }
+.footer{
+	height: 4em;
+}
